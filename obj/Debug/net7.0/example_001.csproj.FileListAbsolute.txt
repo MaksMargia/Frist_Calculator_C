@@ -1,0 +1,14 @@
+C:\Users\maks1\Desktop\c# YouTube\example_001\bin\Debug\net7.0\example_001.exe
+C:\Users\maks1\Desktop\c# YouTube\example_001\bin\Debug\net7.0\example_001.deps.json
+C:\Users\maks1\Desktop\c# YouTube\example_001\bin\Debug\net7.0\example_001.runtimeconfig.json
+C:\Users\maks1\Desktop\c# YouTube\example_001\bin\Debug\net7.0\example_001.dll
+C:\Users\maks1\Desktop\c# YouTube\example_001\bin\Debug\net7.0\example_001.pdb
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\example_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\example_001.AssemblyInfoInputs.cache
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\example_001.AssemblyInfo.cs
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\example_001.csproj.CoreCompileInputs.cache
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\example_001.dll
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\refint\example_001.dll
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\example_001.pdb
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\example_001.genruntimeconfig.cache
+C:\Users\maks1\Desktop\c# YouTube\example_001\obj\Debug\net7.0\ref\example_001.dll
